@@ -1,5 +1,5 @@
 
-import { APP_ID } from './config.js'
+import { APP_ID } from 'config.js'
 const scoreDisplay = document.getElementById('score')
 const startButton = document.getElementById('start-button')
 const width = 28
