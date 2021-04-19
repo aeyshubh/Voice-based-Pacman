@@ -23,6 +23,7 @@ We had tried very hard to use the Speechly API for voice commands in the hack bu
 
 ## Website
 https://voice-based-pacman.herokuapp.com/
+
 ## LICENSE
 ```Creative Commons Legal Code
 
@@ -45,3 +46,7 @@ and subsequent owner(s) (each and all, an "owner") of an original work of
 authorship and/or a database (each, a "Work")....
 ```
 [Read more..](LICENSE)
+
+## Team
+<a href="https://github.com/ShubhamPatel33"> ![image](https://user-images.githubusercontent.com/71369943/115286407-a8796500-a16c-11eb-8251-350cc0228bd9.png)</a>
+<a href="https://github.com/PulkitSinghDev"> ![image](https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png)</a>
