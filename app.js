@@ -1,3 +1,5 @@
+
+import { APP_ID } from './config.js'
 const scoreDisplay = document.getElementById('score')
 const startButton = document.getElementById('start-button')
 const width = 28
@@ -310,7 +312,7 @@ function checkForWin() {
 // your GitHub with your Key visible to others.
 // This is advice for your own benefit. You can hide your SDK Key by converting this project to use packages such as .dotenv. 
 var alanBtnInstance = alanBtn({
-  key: "Your Key",
+  key: APP_ID,
   onCommand: function (commandData) {
     if (commandData.command === "left") {
       goLeft()
