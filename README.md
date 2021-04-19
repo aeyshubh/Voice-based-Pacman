@@ -10,10 +10,10 @@ At first we had planned to make a Astroid game but later we understood that it w
 We had tried very hard to use the Speechly API for voice commands in the hack but wasn't able to do so , as my application was not working properly with it and hence at last we decided to switch on to Alan AI's API for voice instructions .
 
 ## Technologies we used
-- JavaScript
-- Alan AI
-- CSS3
-- HTML5
+- <b>JavaScript</b>
+- <b>Alan AI</b>
+- <b>CSS3</b>
+- <b>HTML5</b>
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/71369943/115174075-32321f80-a0e6-11eb-92dd-5e2a1a970f3b.png)
