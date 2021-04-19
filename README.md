@@ -48,5 +48,5 @@ authorship and/or a database (each, a "Work")....
 [Read more..](LICENSE)
 
 ## Team
-<a href="https://github.com/ShubhamPatel33"> ![image](https://user-images.githubusercontent.com/71369943/115286407-a8796500-a16c-11eb-8251-350cc0228bd9.png)</a>
-<a href="https://github.com/PulkitSinghDev"> ![image](https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png)</a>
+<a href="https://github.com/PulkitSinghDev"><img src="https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png" width="100px" height="100px"></a>
+<a href="https://github.com/ShubhamPatel33"><img src="https://user-images.githubusercontent.com/71369943/115286407-a8796500-a16c-11eb-8251-350cc0228bd9.png" width="100px" height="100px"></a>
