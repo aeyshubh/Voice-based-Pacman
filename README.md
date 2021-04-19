@@ -1,4 +1,6 @@
 # Voice-based-Pacman
+![image](https://user-images.githubusercontent.com/71369943/115176856-90153600-a0eb-11eb-97e7-576f5d7602bf.png)
+
 ## The problem Voice Based Pacman Game solves
 We observed that there were not many games designed for PWD folks and hence decided to create something for them and hence we have Updated the Pacman game with Voice Instructions and hence you don't need to use fingers for the movement of the Pacman when you can easily do so by giving instructions verbally like: Move left / Left/ Right/Up/Down.
 
