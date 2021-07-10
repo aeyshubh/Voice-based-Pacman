@@ -311,7 +311,7 @@ function checkForWin() {
 // your GitHub with your Key visible to others.
 // This is advice for your own benefit. You can hide your SDK Key by converting this project to use packages such as .dotenv. 
 var alanBtnInstance = alanBtn({
-  key: "184710db3e25e3b0125c31e42bef2f452e956eca572e1d8b807a3e2338fdd0dc/stage",
+  key: "TOKEN",
   onCommand: function (commandData) {
     if (commandData.command === "left") {
       goLeft()
