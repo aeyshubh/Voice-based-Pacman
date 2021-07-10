@@ -21,8 +21,9 @@ We had tried very hard to use the Speechly API for voice commands in the hack bu
 ![image](https://user-images.githubusercontent.com/71369943/115174075-32321f80-a0e6-11eb-92dd-5e2a1a970f3b.png)
 ![image](https://user-images.githubusercontent.com/71369943/115174192-6c9bbc80-a0e6-11eb-8996-3cdb53c16998.png)
 
-## Website
-https://pulkitsinghdev.tech/Voice-Based-Pacman/
+## Check it out:
+- [Live Working model](https://pulkitsinghdev.tech/Voice-Based-Pacman/)
+- [Source Code](https://github.com/devshub21/Voice-based-Pacman-./tree/main/src)
 
 ## LICENSE
 ```Creative Commons Legal Code
