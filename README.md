@@ -56,3 +56,5 @@ authorship and/or a database (each, a "Work")....
 - [Github Repo](https://github.com/ShubhamPatel33/Voice-based-Pacman-.)
 - [Slides](https://docs.google.com/presentation/d/1l6qPWE7s1wfxjIwVFLPoy_VufX342nVQEJtHCQc5Aas/edit?usp=sharing)
 - [Code of Conduct](https://github.com/devshub21/Voice-based-Pacman-./blob/main/CODE_OF_CONDUCT.md)
+
+<a href="https://www.patreon.com/pulkitsinghdev" target="_blank" ><img src="https://user-images.githubusercontent.com/71369943/125153692-28fba080-e173-11eb-81ce-1a6d616991d7.png">
