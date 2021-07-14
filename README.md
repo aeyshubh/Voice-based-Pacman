@@ -9,8 +9,6 @@ It can also be helpful for the victim of Parkinson's disease,A disorder of the c
 ## Challenges we ran into
 At first we had planned to make a Astroid game but later we understood that it was difficult to control the ship in the game with voice commands and hence we had to shift to some other game ,so for that we decided to move on Pacman.
 
-We had tried very hard to use the Speechly API for voice commands in the hack but wasn't able to do so , as my application was not working properly with it and hence at last we decided to switch on to Alan AI's API for voice instructions .
-
 ## Technologies used in it
 <code><a href="#"><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></a></code>
 <code><a href="#"><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
