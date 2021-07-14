@@ -1,4 +1,4 @@
-# Voice-based-Pacman
+# Voice-based-Pacman ( v1.2 release 🟢 )
 ![image](https://user-images.githubusercontent.com/71369943/115176856-90153600-a0eb-11eb-97e7-576f5d7602bf.png)
 
 ## The problem Voice Based Pacman Game solves
@@ -18,8 +18,8 @@ We had tried very hard to use the Speechly API for voice commands in the hack bu
 <code><a href="#"><img height="40" width="45" src="https://avatars.githubusercontent.com/u/25465412?s=200&v=4"></a></code>
 
 ## Preview
-![image](https://user-images.githubusercontent.com/71369943/115174075-32321f80-a0e6-11eb-92dd-5e2a1a970f3b.png)
-![image](https://user-images.githubusercontent.com/71369943/115174192-6c9bbc80-a0e6-11eb-8996-3cdb53c16998.png)
+![image](https://user-images.githubusercontent.com/71369943/125681060-7c0642c3-b9a4-41bf-ad7e-b167a8efff75.png)
+![image](https://user-images.githubusercontent.com/71369943/125681179-89de5855-d136-42b0-baea-aa14aba33cc9.png)
 
 ## Check it out:
 - [Live Working model](https://pulkitsinghdev.tech/Voice-Based-Pacman/)
