@@ -15,7 +15,7 @@ We had tried very hard to use the Speechly API for voice commands in the hack bu
 <code><a href="#"><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></a></code>
 <code><a href="#"><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
 <code><a href="#"><img height="40" width="40" src="https://user-images.githubusercontent.com/71369943/125153949-d8854280-e174-11eb-99bd-af46a5767a54.png"></a></code>
-<code><a href="#"><img height="40" width="45" src="https://user-images.githubusercontent.com/71369943/125153984-25691900-e175-11eb-91f6-69f9172dd584.png"></a></code>
+<code><a href="#"><img height="40" width="45" src="https://avatars.githubusercontent.com/u/25465412?s=200&v=4"></a></code>
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/71369943/115174075-32321f80-a0e6-11eb-92dd-5e2a1a970f3b.png)
